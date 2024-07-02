@@ -1,4 +1,4 @@
 # NEW PROJECT
 This a our new project
 
-created by sumana sasmal
+created by sumana sasmal.
